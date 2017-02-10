@@ -1,0 +1,23 @@
+/* Media css file */
+
+/* Extar small device */
+@media (max-width: 767px) {
+
+}
+/*  small device */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+/* Medium device */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+}
+
+/* Large device */
+@media (min-width: 1200px) {
+
+
+}
